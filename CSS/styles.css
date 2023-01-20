@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+    display: inline-block;
+    font-family: 'sofia';
+    color: whitesmoke;
+    margin: 30px 30px 0 30px;
+
+}
+.tar{
+    font-size:60px;
+    margin: 20px 0 0 0;
+}
+h2{
+    font-size: 2rem;
+    color: rgb(72, 132, 140);
+    display: inline-block;;
+}
+.top-container {
+    padding: 30px;
+    background-color: #7B2869;
+}
+.detail{
+    font-size: 25px;
+    padding-bottom: 20px;
+    margin: 0;
+    display: inline-block;
+    width: 600px;
+    text-align: left;
+    border: none;
+    background-color: none;
+}
+img{
+   width: 100px;
+   height: 100px;
+   border: #CEEDC7 solid;
+   border-radius: 30%;
+   margin-top: 45px;
+}
+.myico{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    margin: 15px 0 30px 0;
+}
+.myphoto{
+    margin-top: 10px;
+    border: none;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    right: 5%;
+}
+.mid-container {
+    height: auto;
+    background-color: #FFC6D3;
+    padding: 20px;
+}
+
+.Bottom-container {
+    padding: 0 30px 30px 30px;
+    height: auto;
+    background-color: #FFC6D3;
+}
+
+.Eng {
+    text-decoration: underline;
+}
+table{
+    width: 45%;
+    margin: auto;
+    padding-bottom:30px ;
+}
+td, th{
+    text-align:justify;
+    font-size: 22px;
+    border-radius: 10%;
+    padding:5px;
+}
+td:hover {background-color: white;}
+th:hover {background-color:#A8D1D1;}
+.Button{
+    background-color: rgb(139, 179, 213);
+    border-radius: 10%;
+    padding: 20px;
+}
+.Button:hover{
+    background-color: #A8D1D1;
+}
+ul{
+    font-size: 22px;
+    padding:10px;
+}
+li{
+    padding: 10px;
+    margin: 0 30% 0 30%;
+}
+p{
+    font-size: 22px;
+    border-color: cadetblue;
+    display: inline-block;
+    line-height: 1.5;
+}
+.Final{
+    background-color: #9D3C72;
+    padding:40px;
+}
+.ta{
+    float: left;
+}
+hr{
+    height: 10px;
+    width: 60px;
+    border-top: 5px;
+    border-style: dotted none none none;
+}
